@@ -1,6 +1,6 @@
 permalink: /:year:month:day/:title
 url: https://1627009.github.io/web2-5/
-baseurl: web2-5
+baseurl: /web2-5
 
 # variables
 name: hiroのJekyllのページ
