@@ -1,9 +1,9 @@
 permalink: /:year:month:day/:title
-url: #Your url here
+url: https://1627009.github.io/web2-5/
 baseurl: /project
 
 # variables
-name: Your Site Name
+name: hiroのJekyllのページ
 description: Your description here
 google_verification: null
 
